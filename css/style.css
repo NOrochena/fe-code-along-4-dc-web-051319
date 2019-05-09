@@ -88,7 +88,7 @@ figcaption {
 .col-2 {
   /* this column will span two-thirds */
   float: left;
-  width: 66%;
+  width: 65%;
   background: #ccc;
 }
  
